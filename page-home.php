@@ -35,14 +35,9 @@ get_header();
                                                                             <div class="content-inner">
                                                                                 <div class="slide-title"><span>Specialists in product sourcing and Development</span></div>
                                                                             </div>
-                                                                        </div>
-                                                                        
+                                                                        </div>                                                                  
 
-                                                                        <div class="media image">
-                                                                            <div class="media-inner">
-                                                                                <img src="<?php bloginfo('template_url'); ?>/assets/shaffer-berry/carousel/01-slide.jpg" alt="Slide 1 - Specialists in product sourcing and Development" width="1920" height="500" />
-                                                                            </div><!-- .media-inner (end) -->
-                                                                        </div><!-- .media (end) -->
+                                                                        
 
                                                                     </div><!-- .grid-protection (end) -->
                                                                 </div><!-- .slide-body (end) -->
@@ -310,116 +305,6 @@ get_header();
 
     <!-- MAIN (end) -->
 </
-
-<!-- FEATURED BELOW (start) -->
-
-<div id="featured_below">
-    <div class="arrow-down"></div>
-    <div class="featured_below-inner">
-        <div class="featured_below-content clearfix">
-
-            <!-- Element Headline (start) -->
-            <div class="element element-headline first-element">
-                <div class="element-inner">
-                    <div class="element-inner-wrap">
-                        <div class="grid-protection">
-                            <h1 class="text-center"></h1>
-
-                            <div class="clear"></div>
-                        </div><!-- .grid-protection (end) -->
-                    </div><!-- .element-inner-wrap (end) -->
-                </div><!-- .element-inner (end) -->
-            </div><!-- .element (end) -->
-
-            <!-- Element Columns (start) -->
-            <div class="element element-columns last-element">
-                <div class="element-inner">
-                    <div class="element-inner-wrap">
-                        <div class="grid-protection">
-
-                            <!-- Column -->
-                            <div class="column grid_4">
-                                <div class="article-wrap">
-                                    <article id="post-1" class="post">
-                                        <div class="entry-content">
-                                            
-                                                <div class="featured-image-wrapper">
-   <div class="featured-image">
-      <div class="featured-image-inner">
-         <div class="thumbnail">
-
-            <a class="" title="Vidawell" href="http://vidawell.net/" target="_blank"><img alt="APB-Vidawell-LED-Make-Up-Mirror.jpg" src="<?php bloginfo('template_url'); ?>/assets/asia-pacific-brands/feature-item/_resampled/FillWyI2MDAiLCIzMDAiXQ/APB-Vidawell-LED-Make-Up-Mirror.jpg"></a>
-
-
-         </div>
-      </div>
-   </div>
-</div>
-<p>Health and wellness in your home<br />
-<br />
-Vidawell brings massage, oral health and beauty to the comfort of your home.  Avaialble from Harvey Norman New Zealand.</p>
-
-   <h2 class="entry-title"><a title="Vidawell" href="http://vidawell.net/">Vidawell</a></h2>
-   <a class="btn btn-default btn-sm read-more" target="_blank" title="Vidawell" href="http://vidawell.net/">Read More</a>
-
-
-                                            
-                                        </div>
-                                    </article>
-                                </div>
-                            </div><!-- .column (end) -->
-
-                            <!-- Column -->
-                            <div class="column grid_4 text-center">
-                                <img alt=""
-                                     src="#">
-                            </div><!-- .column (end) -->
-
-                            <!-- Column -->
-                            <div class="column grid_4 last">
-                                <div class="article-wrap">
-                                    <article id="post-1" class="post">
-                                        <div class="entry-content">
-                                            
-                                                <div class="featured-image-wrapper">
-   <div class="featured-image">
-      <div class="featured-image-inner">
-         <div class="thumbnail">
-
-            <a class="" title="Micasa" href="http://www.micasa-appliances.com/" target="_blank"><img alt="black-airfrier.jpg" src="<?php bloginfo('template_url'); ?>/assets/asia-pacific-brands/feature-item/_resampled/FillWyI2MDAiLCIzMDAiXQ/black-airfrier.jpg"></a>
-
-
-         </div>
-      </div>
-   </div>
-</div>
-<p>Home Appliances, Heating and Cooling Solutions<br />
-<br />
-Micasa Appliances offer value for money, classic design and reliability.  Exclusively from Harvey Norman New Zealand.<br />
-</p>
-
-   <h2 class="entry-title"><a title="Micasa" href="http://www.micasa-appliances.com/">Micasa</a></h2>
-   <a class="btn btn-default btn-sm read-more" target="_blank" title="Micasa" href="http://www.micasa-appliances.com/">Read More</a>
-
-
-                                            
-                                        </div>
-                                    </article>
-                                </div>
-                            </div><!-- .column (end) -->
-
-                            <div class="clear"></div>
-
-                        </div><!-- .grid-protection (end) -->
-                    </div><!-- .element-inner-wrap (end) -->
-                </div><!-- .element-inner (end) -->
-            </div><!-- .element (end) -->
-
-        </div><!-- .featured_below-content (end) -->
-    </div><!-- .featured_below-inner (end) -->
-</div><!-- #featured_below (end) -->
-
-<!-- FEATURED BELOW (end) -->
 
 
 <!-- Fancybox -->
