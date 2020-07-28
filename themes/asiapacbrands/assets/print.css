@@ -1,0 +1,54 @@
+@media print {
+   /*
+    * Global Nav
+    */
+   #primary-menu a:after {
+      display: none;
+   }
+   #branding div.header_logo.header_logo_image {
+      width: 100%;
+   }
+   #featured div.media.image img {
+      opacity: 0;
+   }
+   body #primary-menu > li,
+   body #primary-menu > li a {
+      border-color: black!important;
+   }
+   /*
+    * Home Page
+    */
+   body.home div.feature-product-box a:after {
+      display: none;
+   }
+   body.home div.featured_below-content div.entry-content a:after {
+      display: none;
+   }
+   /*
+    * Product Page
+    */
+   body.product-list-page div.element-product-filter {
+      display: none;
+   }
+   body.product-list-page div.element-item a:after {
+      display: none;
+   }
+   body.product-list-page div.entry-content > a {
+      display: none;
+   }
+   /*
+    * Theme
+    */
+   #header_addon {
+      display: none;
+   }
+   .btn-navbar {
+      display: none;
+   }
+   .right-sidebar {
+      display: none;
+   }
+   #bottom {
+      display: none;
+   }
+}

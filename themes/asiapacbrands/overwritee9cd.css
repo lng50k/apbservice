@@ -1,0 +1,145 @@
+@media only screen and (max-width: 900px) {
+    .userform .dropdown {
+        position: relative !important;
+    }
+
+    .userform .chosen-container {
+        display: none;
+    }
+}
+
+/*cookie notice*/
+.fa{
+    padding-right:20px;
+}
+
+#cookie-notification {
+    background-color: #000;
+    min-height: 300px;
+}
+
+#cookie-notification p, #cookie-notification a, #cookie-notification .nav-item {
+    font-size: 13px !important;
+    color: #fff;
+    line-height: 18px;
+}
+
+#cookie-notification p, #cookie-notification a, #cookie-notification .nav-item:hover{
+    cursor:pointer;
+}
+
+#cookie-notification h3 {
+    font-size: 18px !important;
+    line-height: 24px;
+}
+
+#cookie-notification .fas {
+    vertical-align: bottom;
+    margin-bottom: 3.5px;
+}
+
+#cookie-notification.compact {
+    min-height: 200px;
+}
+
+#cookie-notification .cookie-notice {
+    min-height: 100px;
+    padding: 20px 0 0;
+}
+
+#cookie-notification .cookie-options {
+    padding: 20px 0 0;
+    min-height: 200px;
+}
+
+#cookie-notification .content-item .option-notice {
+    margin: 0;
+}
+
+#cookie-notification .close {
+    font-size: 20px;
+}
+
+#cookie-notification .options-nav {
+    margin-top: 19px;
+}
+
+#cookie-notification .nav-item.selected {
+    color: #353132;
+}
+
+/*cookie notice buttons*/
+#cookie-notification .actions .button {
+    display: inline-block;
+}
+
+#cookie-notification .actions .button.options {
+    display: none;
+}
+
+#cookie-notification.compact .actions .button.options {
+    display: inline-block;
+}
+
+#cookie-notification .actions .button a {
+    color: #000;
+    border-color: #fff;
+    background-color: #aeaeae;
+    padding:6px 20px;
+    font-size: 11px !important;
+    text-transform: uppercase;
+    font-family: "brandon-grotesque", sans-serif;
+}
+
+#cookie-notification .actions .button a:after {
+    color: #353132;
+}
+
+#cookie-notification .actions .button:hover a {
+    color: #fff;
+    background-color: #515151;
+    border-color: #515151;
+    -webkit-transition: background-color 300ms;
+    -moz-transition: background-color 300ms;
+    -o-transition: background-color 300ms;
+    transition: background-color 300ms;
+}
+
+#cookie-notification .actions .button:hover a:after {
+    color: #fff;
+}
+
+#cookie-notification .actions {
+    width: 800px;
+    margin: 0 auto 20px;
+    text-align: center;
+}
+
+
+#cookie-notification.compact .actions{
+    width:80%;
+}
+
+#cookie-notification .tooltip{
+    opacity:1;
+    display: block;
+    z-index:unset;
+}
+
+#cookie-notification .tooltip .tooltiptext{
+    background:#000;
+}
+@media only screen and (max-width: 1024px) {
+    #cookie-notification .actions{
+        width: 90%;
+    }
+
+    #cookie-notification .actions a {
+        width: 100%;
+        display: block;
+    }
+
+    #cookie-notification .actions .button:first-child{
+        margin-left:20px;
+    }
+}
